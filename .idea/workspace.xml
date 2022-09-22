@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1220062d-1087-4b0d-bc10-0221836e95fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1220062d-1087-4b0d-bc10-0221836e95fb" name="Changes" comment="tip calc">
       <change beforePath="$PROJECT_DIR$/src/TipCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipCalc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +44,21 @@
       <option name="presentableId" value="Default" />
       <updated>1663860379562</updated>
     </task>
+    <task id="LOCAL-00001" summary="tip calc">
+      <created>1663864051816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663864051816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tip calc">
+      <created>1663864091466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663864091466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tip calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="tip calc" />
   </component>
 </project>
