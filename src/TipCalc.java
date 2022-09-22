@@ -37,6 +37,6 @@ public class TipCalc {
         tipPercent /= 100;
         totalTip = totalCost * tipPercent;
         totalTipRounded = formatter.format(totalTip);
-
+//
     }
 }
