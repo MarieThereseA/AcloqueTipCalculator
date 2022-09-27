@@ -45,12 +45,16 @@ public class TipCalc {
         tipPercent /= 100; //Turning tip percentage into a decimal
         totalTip = totalCost * tipPercent;
         totalTipRound = formatter.format(totalTip);
+
         totalTipCost = totalCost + totalTip;
         totalTipCostRound = formatter.format(totalTipCost);
+
         perCost = totalCost / people;
         perCostRound = formatter.format(perCost);
+
         perTipCost = totalTipCost / people;
         perTipCostRound = formatter.format(perTipCost);
+
         perTip = totalTip / people;
         perTipRound = formatter.format(perTip);
 
